@@ -9,4 +9,15 @@ Linux ma'muri yoki tizim muhandisi - IT sohasida mashhur kasb Dunyodagi IT-kompa
 **Chef server**
 * `Maqola` [Chef Web qo'llanma](https://docs.chef.io/)
 * `Maqola` [DevDocs &mdash; Chef 12 qo'llanma](https://devdocs.io/chef~12/)
-* `Documentation` [Chef  yangi boshlanuvchilar uchun qo'llanma | Linode](https://www.linode.com/docs/applications/configuration-management/beginners-guide-chef/)
+* `Qo'llanma` [Chef  yangi boshlanuvchilar uchun qo'llanma | Linode](https://www.linode.com/docs/applications/configuration-management/beginners-guide-chef/)
+
+## **[Linux konteynerlari]
+* `Maqola` [Docker ichki qismlari](https://medium.com/@BeNitinAgarwal/understanding-the-docker-internals-7ccb052ce9fe)
+
+**Docker**
+
+* `Video` [Docker haqida batafsil! Kirish.](https://youtu.be/trW0gihZ78E)
+* `Video` [Dockerda containerlar boshqaruvi](https://youtu.be/QCez1zKsSRg)
+* `Video` [Docker image'lar bilan ishlaymiz](https://youtu.be/MMP8wCj-5Gg)
+* `Video` [Dockerfile yordamida docker image quramiz!](https://youtu.be/qHTs15-_mdU)
+* `Video` [Konteyner va localhost orasida portlarni bog'lash](https://youtu.be/3aZ0BnRMo0w)
