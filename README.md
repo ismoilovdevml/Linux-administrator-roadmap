@@ -14,9 +14,8 @@ Linux ma'muri yoki tizim muhandisi - IT sohasida mashhur kasb Dunyodagi IT-kompa
 ## Linux konteynerlari
 * `Maqola` [Docker ichki qismlari](https://medium.com/@BeNitinAgarwal/understanding-the-docker-internals-7ccb052ce9fe)
 
-**Docker**
+**Docker** <br>
 Videodarslar Muallifi: Farhod Dadajanov
-Puppet
 * `Video` [Docker haqida batafsil! Kirish.](https://youtu.be/trW0gihZ78E)
 * `Video` [Dockerda containerlar boshqaruvi](https://youtu.be/QCez1zKsSRg)
 * `Video` [Docker image'lar bilan ishlaymiz](https://youtu.be/MMP8wCj-5Gg)
@@ -25,7 +24,7 @@ Puppet
 * `Video` [Docker imageni docker-hubga joylash ](https://youtu.be/XRGkMXfQu64)
 * `Video` [Container'larda ma'lumot boshqaruvi ](https://youtu.be/TRS1G6OZDjE)
 * `Video` [Dockerda tarmoqlar bilan ishlash ](https://youtu.be/j6oEaDrVi08)
-* `Video` [Docker-compose bilan tanishamiz ](https://youtu.be/WBTv6ONh1iI)
+* `Video` [Docker-compose bilan tanishamiz ](https://youtu.be/WBTv6ONh1iI) <br>
 **Linux LVM**
 * `Video` [LVM ga kirish - YouTube](https://youtu.be/dMHFArkANP8)
 * `Video` [Logical Volume Management - LVM nima va undan qanday foydalanish kerak - YouTube](https://youtu.be/214rUhQe7B4)
