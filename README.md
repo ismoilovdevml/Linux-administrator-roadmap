@@ -29,4 +29,17 @@ Videodarslar Muallifi: Farhod Dadajanov
 * `Video` [LVM ga kirish - YouTube](https://youtu.be/dMHFArkANP8)
 * `Video` [Logical Volume Management - LVM nima va undan qanday foydalanish kerak - YouTube](https://youtu.be/214rUhQe7B4)
 * `Video` [Linux Logical Volume Manager (LVM) bo'yicha qo'llanma - YouTube](https://youtu.be/MeltFN-bXrQ)
+## Dasturlash
+**Bash dasturlash tili**
+* `Qo'llanma` [Bash uchun qo'llanma](https://tiswww.case.edu/php/chet/bash/bashref.html)
+* `Qo'llanma` [Bash uchun qo'llanma](https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html)
+**Linux dinamik kutubxonalari**
+* `Qo'llanma` [Linux dinamik kutubxonalari anatomiyasi - IBM](https://developer.ibm.com/tutorials/l-dynamic-libraries/)
+* `Qo'llanma` [Linux asoslari: Statik kutubxonalar va dinamik kutubxonalar](https://medium.com/swlh/linux-basics-static-libraries-vs-dynamic-libraries-a7bcf8157779)
+* `Qo'llanma` [Linuxda dinamik va statik kutubxonalarni qanday boshqarish kerak](https://opensource.com/article/20/6/linux-libraries)
+**Linux paketi tushunchalari**
+* `Qo'llanma` [Linuxda paketlarni boshqarishning umumiy ko'rinishi](https://www.linode.com/docs/guides/linux-package-management-overview/)
+* `Qo'llanma` [Yum, RPM, Apt, Dpkg, Aptitude va Zypper bilan Linux paketlarini boshqarish](https://www.tecmint.com/linux-package-management/)
+* `Qo'llanma` [Ubuntu va Debian Package Management Essentials](https://www.digitalocean.com/community/tutorials/ubuntu-and-debian-package-management-essentials)
+
 
