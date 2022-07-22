@@ -41,5 +41,13 @@ Videodarslar Muallifi: Farhod Dadajanov
 * `Qo'llanma` [Linuxda paketlarni boshqarishning umumiy ko'rinishi](https://www.linode.com/docs/guides/linux-package-management-overview/)
 * `Qo'llanma` [Yum, RPM, Apt, Dpkg, Aptitude va Zypper bilan Linux paketlarini boshqarish](https://www.tecmint.com/linux-package-management/)
 * `Qo'llanma` [Ubuntu va Debian Package Management Essentials](https://www.digitalocean.com/community/tutorials/ubuntu-and-debian-package-management-essentials)
-
+**Python**
+* `Qo'llanma` [Python darsligi](https://docs.python.org/3/tutorial/)
+* `Qo'llanma` [Python darsligi - W3schools](https://www.w3schools.com/python/)
+* `Video` [Python qo'llanmasi - yangi boshlanuvchilar uchun Python to'liq kursi](https://youtu.be/_uQrJ0TkZlc)
+* `Video` [Python-ni o'rganing - yangi boshlanuvchilar uchun to'liq kurs](https://youtu.be/rfscVS0vtbw) <br>
+**O'zbek tilida Pyhon darslari**
+* `You Tube playlist` [Python dasturlash kursi - Botir Ziyatov ](https://www.youtube.com/playlist?list=PLOvS2OkP87tSfos3rmPAhg9FqFDhbOcr1)
+* `You Tube playlist` [DASTURLASH ASOSLARI - Anvar Narzullayev ](https://www.youtube.com/playlist?list=PLwsopmzfbOn9Lw5D7a26THpBDgAma1Sus)
+* `You Tube playlist` [Python dasturlash tili - code uz ](https://www.youtube.com/playlist?list=PLPCDJXWqKXKEYN2Ke6v79YmDs9K3YK27v)
 
