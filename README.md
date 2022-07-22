@@ -49,10 +49,10 @@ Videodarslar Muallifi: Farhod Dadajanov
 **O'zbek tilida Pyhon darslari**
 * `You Tube playlist` [Python dasturlash kursi - Botir Ziyatov ](https://www.youtube.com/playlist?list=PLOvS2OkP87tSfos3rmPAhg9FqFDhbOcr1)
 * `You Tube playlist` [DASTURLASH ASOSLARI - Anvar Narzullayev ](https://www.youtube.com/playlist?list=PLwsopmzfbOn9Lw5D7a26THpBDgAma1Sus)
-* `You Tube playlist` [Python dasturlash tili - code uz ](https://www.youtube.com/playlist?list=PLPCDJXWqKXKEYN2Ke6v79YmDs9K3YK27v)
+* `You Tube playlist` [Python dasturlash tili - code uz ](https://www.youtube.com/playlist?list=PLPCDJXWqKXKEYN2Ke6v79YmDs9K3YK27v) <br>
 **Git bilan ishlash**
 * `Qo'llanma` [Git bilan ishlash qo'llanmasi](https://git-scm.com/docs/gittutorial)
-* `Qo'llanma` [Git asoslarini 10 daqiqada o'rganing](https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/)
+* `Qo'llanma` [Git asoslarini 10 daqiqada o'rganing](https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/) <br>
 
 **Go**
 * `Documentation` [Bash Reference Manual](https://tiswww.case.edu/php/chet/bash/bashref.html)
