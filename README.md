@@ -64,9 +64,30 @@ O'zbek Tilida
 * `Qo'llanma` [Go darsliklari -W3schools](https://www.w3schools.com/go/)
 * `Video` [Yangi boshlanuvchilar uchun Golang qo'llanmasi](https://youtu.be/YS4e4q9oBaU)
 O'zbek tilida
-* `Video` [Go dasturlash tili](https://www.youtube.com/playlist?list=PL_WK6W0Gn1I4LW8Iur4V6GF16hnZi3-6_)
+* `Video` [Go dasturlash tili - Farhod Dadajonov](https://www.youtube.com/playlist?list=PL_WK6W0Gn1I4LW8Iur4V6GF16hnZi3-6_) <br>
 
+## Linux: asosiy buyruqlar
+* `Qo'llanma` [Linux asosiy buyruqlari - Google Search](https://www.google.com/search?q=linux+basic+commands)
+* `Qo'llanma` [Yangi boshlanuvchilar uchun Linux buyruq qatori](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)
+* `Qo'llanma` [Linux buyruqlar qo'llanmasi - Yangi boshlanuvchilar uchun](https://www.freecodecamp.org/news/the-linux-commands-handbook/) <br>
 
+**Linux buyrug'i: boshqa buyruqlar**
 
+**Linux buyruqlari: tarmoq boshqaruvi**
+
+**Linux buyruqlari: jarayonlarni boshqarish**
+
+**Linux buyruqlar guruhi: fayl muharrirlari**
+
+**Linux buyruqlar guruhi: matn protsessorlari**
+
+**Linux buyruqlari: fayllarni boshqarish** <br>
+
+## Linux
+* `Maqola` [Linux - Wikipedia](https://en.wikipedia.org/wiki/Linux)
+* `Qo'llanma` [UNIX / LINUX bo'yicha o'quv qo'llanma](https://www.tutorialspoint.com/unix/index.htm) <br>
+* O'zbekcha darslar
+* `Video` [Linux administratorligi](https://youtube.com/playlist?list=PLnWjQgQJSy-feZmLrEwl-YAC-zegZ1oFX)
+* `You Tube playlist` [Linux va Linux Server (o'zbek tilida)](https://youtube.com/playlist?list=PLdulU06-w0HstHoocRYokEi1HnEFUZX2u)
 
 
