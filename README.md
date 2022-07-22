@@ -89,5 +89,13 @@ O'zbek tilida
 * O'zbekcha darslar
 * `Video` [Linux administratorligi](https://youtube.com/playlist?list=PLnWjQgQJSy-feZmLrEwl-YAC-zegZ1oFX)
 * `You Tube playlist` [Linux va Linux Server (o'zbek tilida)](https://youtube.com/playlist?list=PLdulU06-w0HstHoocRYokEi1HnEFUZX2u)
+**Operatsion tizimlar qanday ishlaydi**
+* `Maqola` [Operatsion Tizim - Wikipedia](https://en.wikipedia.org/wiki/Operating_system)
+* `Qo'llanma` [Operatsion tizimlar bo'yicha qo'llanma](https://www.sophia.org/tutorials/operating-systems)
+* `Qo'llanma` [Operatsion tizimlarning ishlash tamoyillari](http://www.cburch.com/books/os/index.html)
+* `Qo'llanma` [Operatsion tizim - Umumiy ko'rinish - Tutorialspoint](https://www.tutorialspoint.com/operating_system/os_overview.htm)
+* `Video` [Operatsion tizim asoslari](https://www.youtube.com/watch?v=9GDX-IyZ_C8&t=346s)
+* `Video` [Operatsion tizim nima? Operatsion tizimning maqsadi va vazifalari](https://youtu.be/ACsLvXuaKxw)
+* `You Tube Playlist` [Operatsion tizim](https://youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O)
 
 
