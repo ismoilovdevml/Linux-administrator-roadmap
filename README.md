@@ -53,7 +53,13 @@ Videodarslar Muallifi: Farhod Dadajanov
 **Git bilan ishlash**
 * `Qo'llanma` [Git bilan ishlash qo'llanmasi](https://git-scm.com/docs/gittutorial)
 * `Qo'llanma` [Git asoslarini 10 daqiqada o'rganing](https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/) <br>
-
+O'zbek Tilida
+* `Video` [Git va GitHub o`zi nima? - Saidbek Arislonov
+](https://youtu.be/JtVnOZ26XHA) 
+* `Video` [GIT VA GITHUB bilan ishlash // to'liq kurs - Azizbek Khabibullaev
+](https://youtu.be/GYmLXBlTqfE)
+* `Video` [Git va Github ni to'liq o'rganish. | Nazariy, Amaliy va Haqiqiy Proyektda](https://youtu.be/Yzc9BSC8rwk)
 **Go**
-* `Documentation` [Bash Reference Manual](https://tiswww.case.edu/php/chet/bash/bashref.html)
-* `Documentation` [Bash Reference Manual](https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html)
+* `Qo'llanma` [Go qo'llanma](https://go.dev/doc/)
+* `Qo'llanma` [Go darsliklari -W3schools](https://www.w3schools.com/go/)
+* `Video` [Yangi boshlanuvchilar uchun Golang qo'llanmasi](https://youtu.be/YS4e4q9oBaU)
