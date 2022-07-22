@@ -1,6 +1,7 @@
 # Linux-administrator
 Linux Tizim Administratorligi yo'l xaritasi o'zbek tilida
 Linux ma'muri yoki tizim muhandisi - IT sohasida mashhur kasb Dunyodagi IT-kompaniyalarning yarmidan ko'pi ishlab chiqarishda Linuxdan foydalanadi, shuning uchun Linux administratori doimo ishi bo'ladi.
+<p><a href="https://bestaccreditedcolleges.org/articles/how-to-become-a-system-administrator-career-roadmap.html?wvideo=sz7dgiv3i9"><img src="/cimages/videopreview/videopreview-full/sz7dgiv3i9.jpg" width="400" height="225" style="width: 400px; height: 225px;"></a></p><p><a href="https://bestaccreditedcolleges.org/articles/how-to-become-a-system-administrator-career-roadmap.html?wvideo=sz7dgiv3i9">How to Become a System Administrator: Career Roadmap</a></p>
 ##  Avtomatlashtirish
 * `Maqola` [Konfiguratsiyani boshqarish nima?](https://www.redhat.com/en/topics/automation/what-is-configuration-management)
 * `Maqola` [Konfiguratsiya boshqaruviga kirish | DigitalOcean](https://www.digitalocean.com/community/tutorials/an-introduction-to-configuration-management)
