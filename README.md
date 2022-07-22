@@ -9,7 +9,14 @@ Linux ma'muri yoki tizim muhandisi - IT sohasida mashhur kasb Dunyodagi IT-kompa
 **Chef server**
 * `Maqola` [Chef Web qo'llanma](https://docs.chef.io/)
 * `Maqola` [DevDocs &mdash; Chef 12 qo'llanma](https://devdocs.io/chef~12/)
-* `Qo'llanma` [Chef  yangi boshlanuvchilar uchun qo'llanma | Linode](https://www.linode.com/docs/applications/configuration-management/beginners-guide-chef/)
+* `Qo'llanma` [Chef  yangi boshlanuvchilar uchun qo'llanma | Linode](https://www.linode.com/docs/applications/configuration-management/beginners-guide-chef/) <br>
+**Puppet**
+* `Qo'llanma` [Puppet (dasturiy ta'minot)](https://en.wikipedia.org/wiki/Puppet_(software))
+* `Video` [Puppet nima? | Pupppet qanday ishlaydi? | Yangi boshlanuvchilar uchun Puppet](https://youtu.be/llcjg1R0DdM)
+* `Video` [Puppet qanday ishlaydi](https://youtu.be/QFcqvBk1gNA)
+* `Video` [Puppet to'liq kursi | Puppet bosqichma-bosqich o'rganing | Yangi boshlanuvchilar uchun Puppet](https://youtu.be/F-NGOvYiV9g)
+* `Video` [Chef vs Puppet vs Ansible vs Saltstack | Konfiguratsiyani boshqarish vositalari | DevOps Tools](https://youtu.be/_TVNCTK808I) <br>
+
 
 ## Linux konteynerlari
 * `Maqola` [Docker ichki qismlari](https://medium.com/@BeNitinAgarwal/understanding-the-docker-internals-7ccb052ce9fe)
@@ -88,7 +95,7 @@ O'zbek tilida
 * `Qo'llanma` [UNIX / LINUX bo'yicha o'quv qo'llanma](https://www.tutorialspoint.com/unix/index.htm) <br>
 * O'zbekcha darslar
 * `Video` [Linux administratorligi](https://youtube.com/playlist?list=PLnWjQgQJSy-feZmLrEwl-YAC-zegZ1oFX)
-* `You Tube playlist` [Linux va Linux Server (o'zbek tilida)](https://youtube.com/playlist?list=PLdulU06-w0HstHoocRYokEi1HnEFUZX2u)
+* `You Tube playlist` [Linux va Linux Server (o'zbek tilida)](https://youtube.com/playlist?list=PLdulU06-w0HstHoocRYokEi1HnEFUZX2u) <br>
 **Operatsion tizimlar qanday ishlaydi**
 * `Maqola` [Operatsion Tizim - Wikipedia](https://en.wikipedia.org/wiki/Operating_system)
 * `Qo'llanma` [Operatsion tizimlar bo'yicha qo'llanma](https://www.sophia.org/tutorials/operating-systems)
