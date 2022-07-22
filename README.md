@@ -58,8 +58,15 @@ O'zbek Tilida
 ](https://youtu.be/JtVnOZ26XHA) 
 * `Video` [GIT VA GITHUB bilan ishlash // to'liq kurs - Azizbek Khabibullaev
 ](https://youtu.be/GYmLXBlTqfE)
-* `Video` [Git va Github ni to'liq o'rganish. | Nazariy, Amaliy va Haqiqiy Proyektda](https://youtu.be/Yzc9BSC8rwk)
+* `Video` [Git va Github ni to'liq o'rganish. | Nazariy, Amaliy va Haqiqiy Proyektda](https://youtu.be/Yzc9BSC8rwk) <br>
 **Go**
 * `Qo'llanma` [Go qo'llanma](https://go.dev/doc/)
 * `Qo'llanma` [Go darsliklari -W3schools](https://www.w3schools.com/go/)
 * `Video` [Yangi boshlanuvchilar uchun Golang qo'llanmasi](https://youtu.be/YS4e4q9oBaU)
+O'zbek tilida
+* `Video` [Go dasturlash tili](https://www.youtube.com/playlist?list=PL_WK6W0Gn1I4LW8Iur4V6GF16hnZi3-6_)
+
+
+
+
+
