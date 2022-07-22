@@ -40,7 +40,7 @@ Videodarslar Muallifi: Farhod Dadajanov
 **Linux paketi tushunchalari**
 * `Qo'llanma` [Linuxda paketlarni boshqarishning umumiy ko'rinishi](https://www.linode.com/docs/guides/linux-package-management-overview/)
 * `Qo'llanma` [Yum, RPM, Apt, Dpkg, Aptitude va Zypper bilan Linux paketlarini boshqarish](https://www.tecmint.com/linux-package-management/)
-* `Qo'llanma` [Ubuntu va Debian Package Management Essentials](https://www.digitalocean.com/community/tutorials/ubuntu-and-debian-package-management-essentials)
+* `Qo'llanma` [Ubuntu va Debian Package Management Essentials](https://www.digitalocean.com/community/tutorials/ubuntu-and-debian-package-management-essentials) <br>
 **Python**
 * `Qo'llanma` [Python darsligi](https://docs.python.org/3/tutorial/)
 * `Qo'llanma` [Python darsligi - W3schools](https://www.w3schools.com/python/)
