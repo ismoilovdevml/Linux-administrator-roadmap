@@ -3,6 +3,7 @@ Linux Tizim Administratorligi yo'l xaritasi o'zbek tilida
 Linux ma'muri yoki tizim muhandisi - IT sohasida mashhur kasb Dunyodagi IT-kompaniyalarning yarmidan ko'pi ishlab chiqarishda Linuxdan foydalanadi, shuning uchun Linux administratori doimo ishi bo'ladi.
 ##  Eng yaxshi Tizim Administratorligi kurslari
 * `Kurs - Udemy` [Automate Linux SysAdmin tasks with Ansible in 80+ examples](https://www.udemy.com/course/automate-linux-tasks-with-ansible/) <br>
+* `Kurs - Udemy` [Conviértete en un SysAdmin en Linux, Windows Server y MySQL](https://www.udemy.com/course/conviertete-en-un-sysadmin-en-linux-windows-server-y-mysql/) <br>
 * `Kurs - Google` [Tizim boshqaruvi va IT infratuzilma xizmatlari ](https://www.coursera.org/learn/system-administration-it-infrastructure-services) <br>
 * `Kurs` [UNIX / LINUX bo'yicha o'quv qo'llanma](https://www.tutorialspoint.com/unix/index.htm) <br>
 
