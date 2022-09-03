@@ -5,7 +5,7 @@ Linux ma'muri yoki tizim muhandisi - IT sohasida mashhur kasb Dunyodagi IT-kompa
 SysAdmin ko'pincha rol va mas'uliyat nuqtai nazaridan generalist deb ataladi, ammo ularni beshta asosiy mas'uliyatga qisqartirish mumkin:
 ## Kompaniya infratuzilmasini sozlash va boshqarish.<br>
 Bu sizning foydalanuvchilaringiz va ilovalaringizni qo'llab-quvvatlash uchun zarur bo'lgan barcha apparat, dasturiy ta'minot va operatsion tizimlarni o'z ichiga oladi. Barcha serverlar doimo muammosiz ishlashini ta'minlash va kerakli dasturiy ta'minotni o'rnatish va yangilashni amalga oshirish SysAdminning vazifasidir.
-##Foydalanuvchilarning barcha tizimlar va ma'lumotlarga kirishlari va ruxsatlarini boshqaring. <br>
+## Foydalanuvchilarning barcha tizimlar va ma'lumotlarga kirishlari va ruxsatlarini boshqaring. <br>
 SysAdmin sifatida siz turli xil foydalanuvchi ruxsatlari va administratorlarini boshqarasiz. Siz foydalanuvchi loginlarini, SSO (bitta kirish) siyosatlarini boshqarish va kompaniyaning barcha xavfsizlik talablari bajarilishini taʼminlash uchun javobgar boʻlasiz.
 ## Har kuni xavfsizlikni zaxiralash va tiklashni amalga oshiring. <br>
 Kompaniya infratuzilmasi va ma'lumotlarining xavfsizligi SysAdminning eng katta mas'uliyatlaridan biridir. Agar server yoki dasturda biror narsa noto'g'ri bo'lgan bo'lsa, ular har kuni xavfsizlik zaxiralarini amalga oshirishlari kerak va mijozlarning salbiy tajribasi yoki asosiy yo'qotishlarni oldini olish uchun narsalarni qayta tiklash va ishga tushirish sizning vazifangizdir.
