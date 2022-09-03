@@ -3,7 +3,7 @@ Linux Tizim Administratorligi yo'l xaritasi o'zbek tilida
 Linux ma'muri yoki tizim muhandisi - IT sohasida mashhur kasb Dunyodagi IT-kompaniyalarning yarmidan ko'pi ishlab chiqarishda Linuxdan foydalanadi, shuning uchun Linux administratori doimo ishi bo'ladi.
 ## SysAdminning roli va mas'uliyati qanday?
 SysAdmin ko'pincha rol va mas'uliyat nuqtai nazaridan generalist deb ataladi, ammo ularni beshta asosiy mas'uliyatga qisqartirish mumkin:
-##Kompaniya infratuzilmasini sozlash va boshqarish.<br>
+## Kompaniya infratuzilmasini sozlash va boshqarish.<br>
 Bu sizning foydalanuvchilaringiz va ilovalaringizni qo'llab-quvvatlash uchun zarur bo'lgan barcha apparat, dasturiy ta'minot va operatsion tizimlarni o'z ichiga oladi. Barcha serverlar doimo muammosiz ishlashini ta'minlash va kerakli dasturiy ta'minotni o'rnatish va yangilashni amalga oshirish SysAdminning vazifasidir.
 ##Foydalanuvchilarning barcha tizimlar va ma'lumotlarga kirishlari va ruxsatlarini boshqaring. <br>
 SysAdmin sifatida siz turli xil foydalanuvchi ruxsatlari va administratorlarini boshqarasiz. Siz foydalanuvchi loginlarini, SSO (bitta kirish) siyosatlarini boshqarish va kompaniyaning barcha xavfsizlik talablari bajarilishini taʼminlash uchun javobgar boʻlasiz.
