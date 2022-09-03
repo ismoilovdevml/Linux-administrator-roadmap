@@ -1,6 +1,18 @@
 # Linux-administrator
 Linux Tizim Administratorligi yo'l xaritasi o'zbek tilida
 Linux ma'muri yoki tizim muhandisi - IT sohasida mashhur kasb Dunyodagi IT-kompaniyalarning yarmidan ko'pi ishlab chiqarishda Linuxdan foydalanadi, shuning uchun Linux administratori doimo ishi bo'ladi.
+## SysAdminning roli va mas'uliyati qanday?
+SysAdmin ko'pincha rol va mas'uliyat nuqtai nazaridan generalist deb ataladi, ammo ularni beshta asosiy mas'uliyatga qisqartirish mumkin:
+##Kompaniya infratuzilmasini sozlash va boshqarish.<br>
+Bu sizning foydalanuvchilaringiz va ilovalaringizni qo'llab-quvvatlash uchun zarur bo'lgan barcha apparat, dasturiy ta'minot va operatsion tizimlarni o'z ichiga oladi. Barcha serverlar doimo muammosiz ishlashini ta'minlash va kerakli dasturiy ta'minotni o'rnatish va yangilashni amalga oshirish SysAdminning vazifasidir.
+##Foydalanuvchilarning barcha tizimlar va ma'lumotlarga kirishlari va ruxsatlarini boshqaring. <br>
+SysAdmin sifatida siz turli xil foydalanuvchi ruxsatlari va administratorlarini boshqarasiz. Siz foydalanuvchi loginlarini, SSO (bitta kirish) siyosatlarini boshqarish va kompaniyaning barcha xavfsizlik talablari bajarilishini taʼminlash uchun javobgar boʻlasiz.
+## Har kuni xavfsizlikni zaxiralash va tiklashni amalga oshiring. <br>
+Kompaniya infratuzilmasi va ma'lumotlarining xavfsizligi SysAdminning eng katta mas'uliyatlaridan biridir. Agar server yoki dasturda biror narsa noto'g'ri bo'lgan bo'lsa, ular har kuni xavfsizlik zaxiralarini amalga oshirishlari kerak va mijozlarning salbiy tajribasi yoki asosiy yo'qotishlarni oldini olish uchun narsalarni qayta tiklash va ishga tushirish sizning vazifangizdir.
+## Kompaniya ilovalari va infratuzilmasi bo'ylab barcha monitoring va ogohlantirishlarni boshqaring.<br>
+SysAdmin nosozliklarni sodir bo'lganda tezda aniqlash uchun muhim tarmoq ko'rsatkichlarini (CPU, foydalanish, DNS, kechikish va h.k.) diqqat bilan kuzatishi kerak bo'ladi.
+## Muammoni hal qilish va muammolarni bartaraf etish.<br> 
+Bu SysAdmin rolining asosiy jihatlaridan biridir. Ishning katta qismi muammolarni yuzaga kelganda hal qilish va kompaniya bo'ylab xavfsizlikni ta'minlaydigan echimlarni topishdan iborat bo'ladi. SysAdmins yangi muammolarga duch kelganda, o'zlarini juda ko'p ish joyida o'rganishadi.
 ##  Eng yaxshi Tizim Administratorligi kurslari
 * `Kurs - Udemy` [Automate Linux SysAdmin tasks with Ansible in 80+ examples](https://www.udemy.com/course/automate-linux-tasks-with-ansible/) <br>
 * `Kurs - Udemy` [Conviértete en un SysAdmin en Linux, Windows Server y MySQL](https://www.udemy.com/course/conviertete-en-un-sysadmin-en-linux-windows-server-y-mysql/) <br>
